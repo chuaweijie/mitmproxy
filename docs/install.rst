@@ -29,7 +29,7 @@ Installation on Windows
 -----------------------
 
 The recommended way to install mitmproxy on Windows is to use the installer
-provided at `mitmproxy.org`_. After installation, you'll find shortcuts for
+provided at `releases`_. After installation, you'll find shortcuts for
 :ref:`mitmweb` (the web-based interface) and :ref:`mitmdump` in the start menu.
 Both executables are  added to your PATH and can be invoked from the command
 line.
